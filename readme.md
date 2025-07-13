@@ -79,7 +79,7 @@ kubectl logs -f deployment/hamza-app -n hamza-project
 
 👨‍💻 Auteur
 Hamza Hssaini
-📎 LinkedIn
+[📎 LinkedIn](https://www.linkedin.com/in/hamza-hssaini-149a9b310)
 
 📜 Licence
 Ce projet est open source, vous pouvez le réutiliser, le modifier et le partager à des fins éducatives.
